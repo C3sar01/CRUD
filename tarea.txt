@@ -1,0 +1,8 @@
+Instalar mongoose y crear un schema de productos
+
+Generar un crud básico de productos
+
+investigar patrón de desarrollo repository pattern
+
+singleton 
+
